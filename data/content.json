@@ -1,0 +1,296 @@
+[
+  {
+    "id": "f0f93cc693a83d9394a4c8d43c",
+    "class": "sheet",
+    "title": "画布 1",
+    "rootTopic": {
+      "id": "121ac282452a1421d2780aebe7",
+      "class": "topic",
+      "title": "中心主题",
+      "structureClass": "org.xmind.ui.logic.right",
+      "titleUnedited": true,
+      "children": {
+        "attached": [
+          {
+            "title": "测试问题",
+            "id": "8055d5cc-b2e3-4f48-b8c8-c8f6c155819b",
+            "children": {
+              "attached": [
+                {
+                  "title": "基本的文字问题？",
+                  "id": "223729ca-8210-49a6-a980-639bd198f8d8",
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "基本的文字答案",
+                        "id": "49161617-e327-45c4-a27c-6170f39e5e71"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "问题中带有图片？",
+                  "id": "a9ae391d-1e98-48ad-b718-05bed6c2c7ad",
+                  "image": {
+                    "src": "xap:resources/ac268d9bbc66ea031a69f41c9d521e818d610d837566ee3cd2a1f515d6e907e7.png",
+                    "width": 210,
+                    "height": 216
+                  },
+                  "children": {
+                    "attached": [
+                      {
+                        "title": "答案1",
+                        "id": "17a69bda-6809-41a2-bbfa-84808ac0a3e7"
+                      },
+                      {
+                        "title": "答案2",
+                        "id": "a5fd10d7-c191-439a-a0a1-561814a2cf2b"
+                      },
+                      {
+                        "title": "答案3",
+                        "id": "9614d95d-817b-483a-b0b5-32cb4d5fe96a",
+                        "image": {
+                          "src": "xap:resources/012ffa05f14cb03c4c0a09aa45f0b2b2f74efe7da2d78ca2e58b84923d8c5800.png"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "加粗的问题是如何实现的？",
+            "id": "a27b0f90-e480-43b5-bcc9-490f63366136",
+            "style": {
+              "id": "1f526995-9102-4c4f-b0e1-747abbd24db1",
+              "properties": {
+                "fo:font-weight": "bold",
+                "fo:font-style": "normal",
+                "fo:text-align": "center"
+              }
+            },
+            "children": {
+              "attached": [
+                {
+                  "title": "节点附带有链接",
+                  "id": "a4ddc77d-7f9c-4438-ae46-57caf9f90958",
+                  "href": "https://www.baidu.com/"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "extensions": [
+      {
+        "provider": "org.xmind.ui.skeleton.structure.style",
+        "content": {
+          "centralTopic": "org.xmind.ui.logic.right"
+        }
+      }
+    ],
+    "theme": {
+      "id": "b2dc5a89-1870-43fe-ab09-cbea3a694bd7",
+      "centralTopic": {
+        "id": "c5069014-b642-4cf5-bb50-1d29bd0df2a1",
+        "properties": {
+          "svg:fill": "#1E88E5",
+          "line-color": "#141414",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-width": "3pt",
+          "line-pattern": "solid",
+          "fill-pattern": "solid",
+          "border-line-width": "3pt",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "alignment-by-level": "inactived",
+          "fo:font-family": "Droid Serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "30pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center"
+        }
+      },
+      "mainTopic": {
+        "id": "70cef26a-bf8a-4a75-a3ba-c39b54a6401d",
+        "properties": {
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "fill-pattern": "solid",
+          "border-line-width": "0pt",
+          "fo:font-family": "Droid Serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "18pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "none"
+        }
+      },
+      "subTopic": {
+        "id": "d5c7d9c0-e954-4c99-9e01-91cccd629c22",
+        "properties": {
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-width": "2pt",
+          "fill-pattern": "solid",
+          "border-line-width": "0pt",
+          "fo:font-family": "Droid Serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "14pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left",
+          "svg:fill": "none"
+        }
+      },
+      "summaryTopic": {
+        "id": "dc5d147f-2c2a-423f-8d4f-26c6e4cdc4ec",
+        "properties": {
+          "border-line-color": "#43A047",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "fill-pattern": "solid",
+          "fo:font-family": "Droid Serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:font-size": "14pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center",
+          "border-line-width": "0pt",
+          "svg:fill": "#43A047"
+        }
+      },
+      "calloutTopic": {
+        "id": "b2ccd2cb-e4d0-4c1d-8615-fea7a1b98854",
+        "properties": {
+          "svg:fill": "#43A047",
+          "border-line-color": "#43A047",
+          "callout-shape-class": "org.xmind.calloutTopicShape.balloon.roundedRect",
+          "fill-pattern": "solid",
+          "fo:font-family": "Droid Serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "14pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "left"
+        }
+      },
+      "floatingTopic": {
+        "id": "1db99452-2bb0-4de8-87f5-cdeb8a591d7b",
+        "properties": {
+          "svg:fill": "#43A047",
+          "border-line-color": "#141414",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-pattern": "solid",
+          "fill-pattern": "solid",
+          "border-line-width": "0pt",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "fo:font-family": "Droid Serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "14pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center"
+        }
+      },
+      "boundary": {
+        "id": "beaff7ce-691f-481d-847c-c5f43d125660",
+        "properties": {
+          "svg:fill": "#43A047",
+          "line-color": "#43A047",
+          "shape-class": "org.xmind.boundaryShape.roundedRect",
+          "shape-corner": "20pt",
+          "line-width": "2",
+          "line-pattern": "dash",
+          "fill-pattern": "solid",
+          "fo:font-family": "'Droid Serif','NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "14pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center"
+        }
+      },
+      "summary": {
+        "id": "7e7d8704-9339-4a37-a8dc-f3a3aa2f4cf2",
+        "properties": {
+          "line-color": "#43A047",
+          "shape-class": "org.xmind.summaryShape.square",
+          "line-width": "2pt",
+          "line-pattern": "solid",
+          "line-corner": "8pt"
+        }
+      },
+      "relationship": {
+        "id": "81c8d0be-6082-4a1c-b88c-23b1445e0647",
+        "properties": {
+          "line-color": "#43A047",
+          "shape-class": "org.xmind.relationshipShape.curved",
+          "line-width": "2",
+          "line-pattern": "dash",
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle",
+          "fo:font-family": "'Droid Serif','NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-style": "normal",
+          "fo:font-weight": 400,
+          "fo:font-size": "13pt",
+          "fo:text-transform": "manual",
+          "fo:text-decoration": "none",
+          "fo:text-align": "center"
+        }
+      },
+      "map": {
+        "id": "ea5bbe08-7b7a-4b13-a4ee-49b20dcc4de2",
+        "properties": {
+          "svg:fill": "#FFFFFF",
+          "multi-line-colors": "",
+          "color-list": "#ffffff #141414",
+          "line-tapered": "none"
+        }
+      },
+      "importantTopic": {
+        "id": "6c4e5a0a-db82-4dc6-9816-213ad1a38238",
+        "properties": {
+          "svg:fill": "#E53935",
+          "fill-pattern": "solid",
+          "border-line-color": "#141414"
+        }
+      },
+      "minorTopic": {
+        "id": "febf0c47-d75e-4149-a07f-a44cf847e7ab",
+        "properties": {
+          "svg:fill": "#FB8C00",
+          "fill-pattern": "solid",
+          "border-line-color": "#FB8C00"
+        }
+      },
+      "colorThemeId": "3d99443a-9c07-4c29-a2f8-36c52af438cc",
+      "expiredTopic": {
+        "id": "71a64910-44e3-4f6f-8970-1c3c1c5b4ec3",
+        "properties": {
+          "fo:text-decoration": "line-through",
+          "svg:fill": "none"
+        }
+      },
+      "global": {
+        "id": "134d782d-30ba-425b-9621-52eddb325a39",
+        "properties": {}
+      },
+      "skeletonThemeId": "c1fbada1b45ba2e3bfc3b8b57b"
+    },
+    "topicPositioning": "fixed",
+    "coreVersion": "2.82.0"
+  }
+]
