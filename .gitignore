@@ -2,6 +2,7 @@
 node_modules
 /dist
 /node_modules.nosync
+/dist_electron.nosync
 /test
 说明.txt
 

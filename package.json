@@ -7,7 +7,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build_mac": "vue-cli-service electron:build",
-    "build_win": "vue-cli-service electron:build --ia32 -w",
+    "build_win": "vue-cli-service electron:build -w",
     "serve_desk": "vue-cli-service electron:serve",
     "postinstall": "electron-builder install-app-deps",
     "postuninstall": "electron-builder install-app-deps"
